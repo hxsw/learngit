@@ -5,3 +5,4 @@ Git tracks change of file
 Git diff --staged
 Creating a new branch is quick and simple
 Add merge
+push origin dev
